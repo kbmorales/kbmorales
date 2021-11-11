@@ -1,6 +1,8 @@
 Thanks for visiting my profile.
 
-For my current work, we utilize a private git hosting service. So if my GitHub activity seems lacking, please know that I am doing many intersting things, they just won't show up here.
+For my current work, we utilize a private git hosting service.
+
+So if my GitHub activity seems lacking, please know that I am doing many interesting things, they just won't show up here.
 
 <!--
 **kbmorales/kbmorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
