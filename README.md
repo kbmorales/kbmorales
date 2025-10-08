@@ -1,6 +1,4 @@
-For my current work, we utilize a private git hosting service.
-
-So if my GitHub activity seems lacking, please know that I am doing many interesting things, they just won't show up here.
+Interests include fighting bad guys with math.
 
 <!--
 **kbmorales/kbmorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
